@@ -1,2 +1,2 @@
-# EditorConfig
-EditorConfig used in Adafy's .NET Core projects
+# Adafy's EditorConfig
+EditorConfig used in [Adafy's[(https://adafy.com) .NET Core projects
